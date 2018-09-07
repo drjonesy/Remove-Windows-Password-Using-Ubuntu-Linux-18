@@ -1,5 +1,7 @@
 # Remove-Windows-Password-Using-Ubuntu-Linux-18
 
+<img src="images/00-ubuntu-opens-windows.png" style="max-width:600px;" />
+
 First off, I will not guarentee this will work. It took me about 25 minutes to figure this out by reading different articles. 
 
 #### Articles Referenced
