@@ -17,7 +17,7 @@ First off, I will not guarentee this will work. It took me about 25 minutes to f
 
 3. Under the **Ubuntu Software** tab check: 
     
-    [x] ```Community-maintained Open Source software (universe)```
+    - [x] ```Community-maintained Open Source software (universe)```
 
 
 4. Click: ```Close```
