@@ -12,6 +12,7 @@ First off, I will not guarentee this will work. It took me about 25 minutes to f
 # How To
 
 1. Create an Ubuntu Live (USB) or Disc
+2. Boot from the Ubuntu Live(USB) / DISC and load Ubuntu 18
 2. Open ```Software Sources``` by searching **Software** its one of the icons that appears.
     > Yes, I know that is a vague statement. I will update this later.
 
