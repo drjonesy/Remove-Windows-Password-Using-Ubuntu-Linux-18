@@ -111,8 +111,9 @@ First off, I will not guarentee this will work. It took me about 25 minutes to f
 ![](images/10-change-directory.png)
 
 17. Type:
+(SAM must be in all capitals)
     ```bash
-    chntpw -l sam
+    chntpw -l SAM  
     ```
     > To list all the Window's System Users that exist.
 
